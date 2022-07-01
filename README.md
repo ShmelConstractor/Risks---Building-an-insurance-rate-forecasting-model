@@ -1,7 +1,7 @@
 # Risks---Building-an-insurance-rate-forecasting-model
 Links (presentation and google collab) 
 
-Бабакехян Вреж Павлович 
+Бабакехян Вреж Павликович 
 Черникова Виола Валерьевна 
 
 
